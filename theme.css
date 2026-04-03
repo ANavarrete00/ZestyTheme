@@ -2782,13 +2782,6 @@ fieldset {
     display: none;
 }
 
-/* replaces Jellyfin logo */
-.adminDrawerLogo img {
-    content: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important;
-}
-imgLogoIcon {
-    content: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important;
-}
 .pageTitleWithLogo {
     background-image: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important;
 } /* imgur link https://i.imgur.com/wHaGTm4.png */
