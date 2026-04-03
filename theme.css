@@ -2782,10 +2782,6 @@ fieldset {
     display: none;
 }
 
-.pageTitleWithLogo {
-    background-image: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important;
-} /* imgur link https://i.imgur.com/wHaGTm4.png */
-
 /* fixes issue with Movies > Genres hover boxes */
 .sectionTitleTextButton > .sectionTitle {
     margin-bottom: 0.35em;
