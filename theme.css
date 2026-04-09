@@ -2750,7 +2750,7 @@ fieldset {
 
 /* fix for Media (small) cards in home screen */
 #homeTab .homeLibraryButton {
-    background: rgba(var(--accent), 0.5) !important;
+    background: rgba(var(--accent), 0.4) !important;
 }
 #homeTab .homeLibraryButton:hover {
     background: rgba(var(--accent), 0.6) !important;
@@ -4092,7 +4092,7 @@ fieldset {
 
 .layout-tv #castContent .card.overflowPortraitCard {
     font-size: 100% !important;
-    width: 17.3em !important;
+    width: 10.3em !important;
     margin-left: 0vw !important;
     height: 37vh;
 }
