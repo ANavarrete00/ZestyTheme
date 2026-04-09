@@ -1,4 +1,4 @@
-@import url("https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/colorschemes/cyan.css");
+@import url("https://cdn.jsdelivr.net/gh/ANavarrete00/ZestyTheme@latest/colorschemes/cyan.css");
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 body,
 h1,
@@ -4052,6 +4052,7 @@ fieldset {
     padding-right: 0.8em;
     padding-left: 0.7em;
     border-radius: 16px; /* update */
+    border-color: red;
     color: rgb(var(--dark)) !important;
 }
 
