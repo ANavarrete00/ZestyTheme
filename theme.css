@@ -2754,7 +2754,7 @@ fieldset {
 }
 #homeTab .homeLibraryButton:hover {
     background: rgba(var(--accent), 0.6) !important;
-    color: rgba(var(--dark), 1) !important;
+    color: rgba(var(--darkest), 1) !important;
     border-radius: var(--rounding) !important;
 }
 #homeTab .homeLibraryIcon {
@@ -4014,8 +4014,9 @@ fieldset {
 
 .layout-tv .emby-tabs-slider .emby-button.show-focus:focus {
     background: rgba(var(--accent), 0.5) !important;
-    color: rgb(var(--dark));
+    color: rgb(var(--darkest));
     border-radius: var(--rounding-circle);
+    border-color: red;
 }
 
 .layout-tv
