@@ -4052,8 +4052,7 @@ fieldset {
     padding-right: 0.8em;
     padding-left: 0.7em;
     border-radius: 16px; /* update */
-    border-color: red;
-    color: rgb(var(--dark)) !important;
+    color: rgb(var(red)) !important;
 }
 
 .layout-tv .headerRight {
