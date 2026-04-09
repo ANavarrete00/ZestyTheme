@@ -4020,7 +4020,7 @@ fieldset {
 
 .layout-tv
     .emby-tab-button.emby-button.show-focus.emby-tab-button-active.lastFocused {
-    background-color: inherit;
+    background-color: red;
 }
 
 .layout-tv .emby-tab-button.emby-button.show-focus,
@@ -4117,7 +4117,6 @@ fieldset {
     height: 2.3em;
     width: 2.3em;
     top: -10px;
-    border-color: red;
     position: relative;
 }
 
