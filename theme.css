@@ -4092,16 +4092,16 @@ fieldset {
 
 .layout-tv #castContent .card.overflowPortraitCard {
     font-size: 100% !important;
-    width: 10.3em !important;
+    width: 17.3em !important;
     margin-left: 0vw !important;
-    height: 37vh;
+    height: 27vh;
 }
 
 .layout-tv #guestCastContent .card.overflowPortraitCard {
     font-size: 100% !important;
     width: 17.3em !important;
     margin-left: 0vw !important;
-    height: 37vh;
+    height: 27vh;
 }
 
 .layout-tv .card.show-focus:not(.show-animation) .cardBox.visualCardBox,
