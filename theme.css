@@ -4014,9 +4014,8 @@ fieldset {
 
 .layout-tv .emby-tabs-slider .emby-button.show-focus:focus {
     background: rgba(var(--accent), 0.5) !important;
-    color: rgb(var(--darkest));
+    color: rgb(var(--dark));
     border-radius: var(--rounding-circle);
-    border-color: red;
 }
 
 .layout-tv
@@ -4053,7 +4052,7 @@ fieldset {
     padding-right: 0.8em;
     padding-left: 0.7em;
     border-radius: 16px; /* update */
-    color: rgb(var(--darkest)) !important;
+    color: rgb(var(--dark)) !important;
 }
 
 .layout-tv .headerRight {
@@ -4118,6 +4117,7 @@ fieldset {
     height: 2.3em;
     width: 2.3em;
     top: -10px;
+    border-color: red;
     position: relative;
 }
 
