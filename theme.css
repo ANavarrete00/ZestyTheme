@@ -2722,7 +2722,7 @@ fieldset {
 
 .raised:hover .homeLibraryText,
 .emby-tab-button:hover .emby-button-foreground {
-    color: rgb(var(red)) !important;
+    color: rgb(var(--darkest)) !important;
     transition: 100ms;
 }
 
