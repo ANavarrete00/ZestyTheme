@@ -2722,7 +2722,7 @@ fieldset {
 
 .raised:hover .homeLibraryText,
 .emby-tab-button:hover .emby-button-foreground {
-    color: rgb(var(--dark)) !important;
+    color: rgb(var(red)) !important;
     transition: 100ms;
 }
 
@@ -2735,7 +2735,7 @@ fieldset {
 .raised.homeLibraryButton.emby-button:hover,
 .emby-tab-button:hover,
 .homeLibraryButton:focus {
-    outline: red !important;
+    outline: none !important;
     box-shadow: none !important;
 }
 
