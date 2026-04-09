@@ -159,7 +159,7 @@ button.emby-tab-button:nth-child(3) {
 .trackSelections .selectContainer #embyselect2,
 .trackSelections .selectContainer #embyselect3 {
     padding-right: 40px !important;
-    background-color: rgba(var(--darkest), 0.75) !important;
+    background-color: rgba(var(--dark), 0.75) !important;
     color: rgba(var(--white), 0.9) !important;
     backdrop-filter: blur(5px);
 }
