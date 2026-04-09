@@ -2750,7 +2750,7 @@ fieldset {
 
 /* fix for Media (small) cards in home screen */
 #homeTab .homeLibraryButton {
-    background: rgba(var(--accent), 0.4) !important;
+    background: rgba(var(--accent), 0.5) !important;
 }
 #homeTab .homeLibraryButton:hover {
     background: rgba(var(--accent), 0.6) !important;
