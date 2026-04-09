@@ -2735,7 +2735,7 @@ fieldset {
 .raised.homeLibraryButton.emby-button:hover,
 .emby-tab-button:hover,
 .homeLibraryButton:focus {
-    outline: none !important;
+    outline: red !important;
     box-shadow: none !important;
 }
 
