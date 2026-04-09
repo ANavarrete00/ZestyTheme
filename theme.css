@@ -2722,7 +2722,7 @@ fieldset {
 
 .raised:hover .homeLibraryText,
 .emby-tab-button:hover .emby-button-foreground {
-    color: rgb(var(--darkest)) !important;
+    color: rgb(var(red)) !important;
     transition: 100ms;
 }
 
@@ -4020,7 +4020,7 @@ fieldset {
 
 .layout-tv
     .emby-tab-button.emby-button.show-focus.emby-tab-button-active.lastFocused {
-    background-color: red;
+    background-color: inherit;
 }
 
 .layout-tv .emby-tab-button.emby-button.show-focus,
