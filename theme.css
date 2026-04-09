@@ -4016,6 +4016,7 @@ fieldset {
     background: rgba(var(--accent), 0.5) !important;
     color: rgb(var(--dark));
     border-radius: var(--rounding-circle);
+    border-color: red;
 }
 
 .layout-tv
@@ -4052,7 +4053,6 @@ fieldset {
     padding-right: 0.8em;
     padding-left: 0.7em;
     border-radius: 16px; /* update */
-    border-color: red;
     color: rgb(var(--dark)) !important;
 }
 
