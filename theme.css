@@ -2722,7 +2722,7 @@ fieldset {
 
 .raised:hover .homeLibraryText,
 .emby-tab-button:hover .emby-button-foreground {
-    color: red !important;
+    color: rgb(var(--dark)) !important;
     transition: 100ms;
 }
 
@@ -4052,7 +4052,7 @@ fieldset {
     padding-right: 0.8em;
     padding-left: 0.7em;
     border-radius: 16px; /* update */
-    color: rgb(var(--dark)) !important;
+    color: rgb(var(--dark-apparent)) !important;
 }
 
 .layout-tv .headerRight {
