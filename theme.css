@@ -4027,7 +4027,7 @@ fieldset {
 .layout-tv
     .emby-tab-button.emby-button.show-focus.emby-tab-button-active.lastFocused {
     margin: 0.4em;
-    height: 3.6em;
+    /*height: 3.6em;*/
 }
 
 /* Turn off TabBar animation */
