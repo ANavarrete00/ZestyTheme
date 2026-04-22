@@ -4016,6 +4016,7 @@ fieldset {
     background: rgba(var(--accent), 0.5) !important;
     color: rgb(var(--dark));
     border-radius: var(--rounding-circle);
+    border: 2px solid --darkest;
 }
 
 .layout-tv
@@ -4094,6 +4095,7 @@ fieldset {
     font-size: 100% !important;
     width: 17.3em !important;
     margin-left: 0vw !important;
+    height: 37vh;
 }
 
 .layout-tv #guestCastContent .card.overflowPortraitCard {
